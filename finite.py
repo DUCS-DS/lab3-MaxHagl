@@ -51,8 +51,8 @@ if __name__ == "__main__":
 
 
 
-print(length(lst))
-llprint(llist)
+    print(length(lst))
+    llprint(llist)
 
 
     
